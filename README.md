@@ -3,9 +3,9 @@
 
 https://github.com/PTKELITE/F2K916 - PROJECT
 
-[https://console.runpod.io/deploy?template=xbnsy24tdh&ref=aoxe4vh4](https://console.runpod.io/deploy?template=xbnsy24tdh&ref=aoxe4vh4)  -PLAY AND RUN V1.6
+(https://console.runpod.io/deploy?template=xbnsy24tdh&ref=aoxe4vh4)  -PLAY AND RUN V1.6
 
-(https://runpod.io?ref=aoxe4vh4](https://runpod.io?ref=aoxe4vh4) -- REFFERS LINK GAIN TO $5 AT $500 BONUS REFFERS LINK ADD CREDIT TO FIRST RUNPOD START
+(https://runpod.io?ref=aoxe4vh4) -- REFFERS LINK GAIN TO $5 AT $500 BONUS REFFERS LINK ADD CREDIT TO FIRST RUNPOD START
 
 THANKS! :D
 
