@@ -102,3 +102,23 @@ wget -O /workspace/runpod-slim/ComfyUI/models/loras/klein_snofs_v1_4.safetensors
 ...((ELLITE))...
 * 1.6
     * Initial Release
+	
+	
+	#FOR TEMPLATE RUN
+``` # FLUX 2 KLEIN GGUF XXX I2I V1.6
+* How to use the actual template
+run after reflece to civitai key and Huggface key on script,
+
+this easy processe only replace work "Your HUGGFACE KEY" and "Your CIVITAI  KEY" to your key respective key plataform.
+git:
+
+```
+# 9. Reinicialização Automática do Processo do ComfyUI AND RESTART YOUR POD "..., RESTART POD" E STAR TO NEW LINK AFTER ALL RUN CODE
+```
+## Authors
+
+...((ELITE))...
+
+* 1.6
+    * OFICIAL RELEASED
+```
