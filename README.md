@@ -1,7 +1,9 @@
 
 #ONLY RUN TO RUNPOD (ref=aoxe4vh4) SUPPORT ME (https://runpod.io?ref=aoxe4vh4) :D
 https://github.com/PTKELITE/F2K916 - PROJECT
-https://console.runpod.io/deploy?template=xbnsy24tdh&ref=aoxe4vh4  -PLAY AND RUN V1.6
+[https://console.runpod.io/deploy?template=xbnsy24tdh&ref=aoxe4vh4](https://console.runpod.io/deploy?template=xbnsy24tdh&ref=aoxe4vh4)  -PLAY AND RUN V1.6
+https://console.runpod.io/deploy?template=xbnsy24tdh&ref=aoxe4vh4 -- REFFERS LINK
+THANKS! :D
 
 # F2K916
 FLUX 2 KLEIN 9B GGUF CLIP LOADER UNCENSORED XXXTENSION V.1.6 (SFW, NSFW,  IPAINTING, I2I, I2I + IMAGE REFERENCE)
@@ -108,7 +110,8 @@ wget -O /workspace/runpod-slim/ComfyUI/models/loras/klein_snofs_v1_4.safetensors
     * Initial Release
 	
 	
-	#FOR WORKFLOW TEMPLATE RUN TO RUNPOD (ref=aoxe4vh4) SUPPORT ME (https://runpod.io?ref=aoxe4vh4) :D
+	#FOR WORKFLOW TEMPLATE RUN TO RUNPOD TEMPLATE:
+	https://console.runpod.io/deploy?template=xbnsy24tdh&ref=aoxe4vh4 (ref=aoxe4vh4) SUPPORT ME (https://runpod.io?ref=aoxe4vh4) :D
 ``` 
 #ONLY RUN TO: 
 https://github.com/PTKELITE/F2K916 
