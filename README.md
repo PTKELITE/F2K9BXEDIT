@@ -1,4 +1,8 @@
-#https://github.com/PTKELITE/F2K916
+
+#ONLY RUN TO: 
+https://github.com/PTKELITE/F2K916 
+https://console.runpod.io/deploy?template=xbnsy24tdh&ref=aoxe4vh4
+
 # F2K916
 FLUX 2 KLEIN 9B GGUF CLIP LOADER UNCENSORED XXXTENSION V.1.6 (SFW, NSFW,  IPAINTING, I2I, I2I + IMAGE REFERENCE)
 # FLUX 2 KLEIN GGUF XXX I2I V1.6
@@ -105,7 +109,38 @@ wget -O /workspace/runpod-slim/ComfyUI/models/loras/klein_snofs_v1_4.safetensors
 	
 	
 	#FOR TEMPLATE RUN
-``` # FLUX 2 KLEIN GGUF XXX I2I V1.6
+``` 
+#ONLY RUN TO: 
+https://github.com/PTKELITE/F2K916 
+https://console.runpod.io/deploy?template=xbnsy24tdh&ref=aoxe4vh4
+
+# F2K916
+FLUX 2 KLEIN 9B GGUF CLIP LOADER UNCENSORED XXXTENSION V.1.6 (SFW, NSFW,  IPAINTING, I2I, I2I + IMAGE REFERENCE)
+# FLUX 2 KLEIN GGUF XXX I2I V1.6
+* How to use the actual template
+run after reflece to civitai key and Huggface key on script,
+
+this easy processe only replace work "Your HUGGFACE KEY" and "Your CIVITAI  KEY" to your key respective key plataform.
+
+REPLACE:
+INPUTIMAGEID FOR IMAGENS/WORKFLOW INPUT AND WORKFLOWS 
+
+BUG:
+latent2rgb NOT FUN, PLASE SELECT MANUALLY TO OPTION DO EXECUTION latent2rgb FOT PREWIE GENERATION ON REAL TIME
+
+
+#FLUX LINKS WORKFLOWS
+
+## Authors
+
+...((ELLITE))...
+* 1.6
+    * Initial Release
+	
+	
+	#FOR TEMPLATE RUN
+``` 
+# FLUX 2 KLEIN GGUF XXX I2I V1.6
 * How to use the actual template
 run after reflece to civitai key and Huggface key on script,
 
@@ -121,4 +156,5 @@ git:
 
 * 1.6
     * OFICIAL RELEASED
+```
 ```
