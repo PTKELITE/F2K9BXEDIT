@@ -140,7 +140,7 @@ latent2rgb NOT FUN, PLASE SELECT MANUALLY TO OPTION DO EXECUTION latent2rgb FOT 
 
 ## Authors
 
-...((ELLITE))...
+...((ELITE))...
 * 1.6
     * Initial Release
 	
